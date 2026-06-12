@@ -1,2 +1,2 @@
 # student-burnout-risk-prediction
-Predicting student burnout risk from AI usage patterns, academic performance, and well-being indicators.
+Developed a multiclass classification model to predict student burnout risk using AI usage patterns, academic performance, and well-being indicators. Random Forest, XGBoost, and ANN models achieved approximately 53–54% accuracy. Feature importance analysis identified Weekly GenAI Usage Hours and AI Dependency as the strongest predictors. Results suggest that burnout risk is an ordinal and behavior-driven problem with significant overlap between adjacent risk levels, highlighting opportunities for future work using ordinal classification approaches.
